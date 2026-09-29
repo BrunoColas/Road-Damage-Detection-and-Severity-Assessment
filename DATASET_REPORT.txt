@@ -1,0 +1,26 @@
+RDD2022 uploaded archive inspection
+
+Images: 1530
+XML annotations: 1530
+Annotated objects: 4524
+
+Requested model classes:
+D00 = Longitudinal crack: 471 boxes
+D10 = Transverse crack: 23 boxes
+D20 = Alligator crack: 645 boxes
+D40 = Pothole: 3187 boxes
+
+Additional labels present and intentionally excluded:
+D44 = 151
+D01 = 27
+D50 = 8
+D11 = 7
+D43 = 5
+
+The archive contains only a training-style folder; no separate validation/test
+folder was found. The preparation script therefore creates a reproducible
+80/20 train/validation split.
+
+Severity labels Low/Medium/High are not present in the XML annotations.
+Severity in the supplied implementation is therefore a heuristic and should
+not be reported as validated severity accuracy.
