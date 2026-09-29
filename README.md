@@ -1,4 +1,5 @@
 # Road Damage Detection and Severity Assessment — RDD2022 India
+<img width="1902" height="871" alt="image" src="https://github.com/user-attachments/assets/dabc9542-8e35-4990-9515-467cc2c0ffb7" />
 
 This implementation is adapted to the uploaded `archive.zip`.
 
