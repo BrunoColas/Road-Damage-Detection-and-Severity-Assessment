@@ -1,0 +1,8 @@
+path: C:\Users\PRANALI KOLI\Desktop\road_damage_detection_final\road_damage_detection_final\prepared
+train: images/train
+val: images/val
+names:
+  0: Longitudinal crack
+  1: Transverse crack
+  2: Alligator crack
+  3: Pothole
